@@ -1,0 +1,8 @@
+.especial {
+    background-color: brown;
+}
+
+body {
+    background-image: url(/HTML/Assets/navidad.jpg);
+    background-position:inherit;
+}
